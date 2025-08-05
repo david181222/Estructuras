@@ -1,0 +1,503 @@
+2025-08-05 09:46:30 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 09:46:30 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 09:46:30 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 09:46:30 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 09:46:30 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 09:46:30 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
+2025-08-05 09:57:17 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 09:57:17 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 09:57:17 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 09:57:17 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 09:57:17 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 09:57:17 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción The Man Who Sold The World
+2025-08-05 09:57:51 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 09:57:51 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 09:57:51 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 09:57:51 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 09:57:51 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 09:57:51 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
+2025-08-05 09:59:01 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 09:59:01 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 09:59:01 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 09:59:01 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 09:59:01 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 09:59:01 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Shape of You
+2025-08-05 10:02:18 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:02:18 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:02:18 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:02:18 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:02:18 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:02:18 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
+2025-08-05 10:02:26 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:02:26 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:02:26 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:02:26 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:02:26 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:02:26 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:02:27 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 10:02:47 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:02:47 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:02:47 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:02:47 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:02:47 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:02:47 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción ?
+2025-08-05 10:02:57 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:02:57 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:02:57 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:02:57 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:02:57 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:02:57 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:02:58 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción ?
+2025-08-05 10:03:04 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:03:04 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:03:04 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:03:04 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:03:04 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:03:04 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción The Man Who Sold The World
+2025-08-05 10:04:04 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:04:04 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:04:04 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:04:04 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:04:04 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:04:04 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
+2025-08-05 10:04:11 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:04:11 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:04:11 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:04:11 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:04:11 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:04:11 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 10:04:17 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:04:17 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:04:17 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:04:18 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:04:18 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:04:18 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:04:18 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción ?
+2025-08-05 10:04:22 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:04:22 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:04:22 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:04:22 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:04:22 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:04:22 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:04:23 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción The Man Who Sold The World
+2025-08-05 10:04:29 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:04:29 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:04:29 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:04:29 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:04:29 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:04:29 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Bueeeeenas
+2025-08-05 10:07:14 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:07:14 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:07:14 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:07:14 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:07:14 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:07:14 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:07:15 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción ?
+2025-08-05 10:07:21 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:07:21 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:07:21 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:07:21 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:07:21 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:07:21 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:07:22 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Smells Like Teen Spirit
+2025-08-05 10:07:32 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:07:32 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:07:32 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:07:32 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:07:32 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:07:32 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:07:33 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción ?
+2025-08-05 10:07:38 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:07:38 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:07:38 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:07:38 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:07:38 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:07:38 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Bueeeeenas
+2025-08-05 10:07:46 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:07:46 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:07:46 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:07:46 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:07:46 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:07:46 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 10:07:52 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:07:52 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:07:52 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:07:52 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:07:52 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:07:52 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:07:53 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 10:07:57 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:07:57 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:07:57 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:07:57 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:07:57 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:07:57 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:07:58 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Smells Like Teen Spirit
+2025-08-05 10:08:02 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:08:02 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:08:02 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:08:02 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:08:02 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:08:02 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:08:03 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 10:08:07 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:08:07 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:08:07 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:08:07 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:08:07 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:08:07 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
+2025-08-05 10:08:12 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:08:12 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:08:12 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:08:12 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:08:12 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:08:12 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Bueeeeenas
+2025-08-05 10:08:18 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:08:18 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:08:18 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:08:18 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:08:18 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:08:18 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:08:19 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
+2025-08-05 10:08:23 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:08:23 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:08:23 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:08:23 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:08:23 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:08:23 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 10:08:44 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:08:44 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:08:44 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:08:44 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:08:44 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:08:44 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:08:45 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción The Man Who Sold The World
+2025-08-05 10:08:51 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:08:51 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:08:51 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:08:51 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:08:51 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:08:51 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:08:52 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción ?
+2025-08-05 10:09:06 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:09:06 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:09:06 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:09:06 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:09:06 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:09:06 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:09:07 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción ?
+2025-08-05 10:09:13 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:09:14 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:09:14 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:09:14 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:09:14 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:09:14 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción The Man Who Sold The World
+2025-08-05 10:09:19 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:09:19 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:09:19 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:09:19 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:09:19 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 10:09:19 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 10:10:18 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 10:10:18 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 10:10:18 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 10:10:18 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 10:10:18 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 10:10:18 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 10:10:18 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 10:10:18 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 10:10:18 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 10:10:18 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 10:10:18 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 10:10:18 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 10:10:54 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Recital Magistral
+2025-08-05 13:55:06 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 13:55:06 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 13:55:06 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 13:55:06 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 13:55:06 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 13:55:06 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 13:55:18 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 13:55:18 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 13:55:18 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 13:55:18 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 13:55:18 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 13:55:18 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 13:55:18 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 13:55:18 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 13:55:18 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 13:55:18 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 13:55:18 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 13:55:18 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 13:55:19 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 13:56:04 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 13:56:04 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 13:56:04 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 13:56:04 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 13:56:04 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 13:56:04 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 13:56:05 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción BB'S Theme (2022)
+2025-08-05 13:56:42 [main] INFO  sounloud.services.ReadSongs - Leyendo el archivo de canciones: C:\Users\david\Documents\E.Datos\RecursosSoundLoud\Songs.txt
+2025-08-05 13:56:42 [main] INFO  sounloud.services.ReadSongs - Archivo de canciones leído exitosamente.
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Playlist - Creando playlist DEATH
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Playlist - Playlist DEATH creada con éxito
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Song - Creando canción The Man Who Sold The World
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Song - Canción The Man Who Sold The World creada con éxito
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Profile - Creando perfil DavidPorter
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Profile - Perfil DavidPorter creado con éxito
+2025-08-05 13:56:42 [main] INFO  sounloud.model.User - Creando usuario David
+2025-08-05 13:56:42 [main] INFO  sounloud.model.User - Usuario David creado con éxito
+2025-08-05 13:56:42 [main] INFO  sounloud.services.UserServer - Usuario agregado al servidor: David
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Queueplay - Playlist agregada a la cola: DEATH
+2025-08-05 13:56:42 [main] INFO  sounloud.model.Queueplay - Seleccionando playlist y canción randoms...
+2025-08-05 13:56:43 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Recital Magistral
+2025-08-05 13:57:23 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
+2025-08-05 13:57:36 [main] INFO  sounloud.model.Queueplay - Reproduciendo canción Billie Jean
