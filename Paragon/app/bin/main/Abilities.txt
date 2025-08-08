@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Bola de Fuego",
+    "costo_mana": 20,
+    "daño": 35
+  },
+  {
+    "nombre": "Luz Sagrada",
+    "costo_mana": 25,
+    "daño": 40
+  },
+  {
+    "nombre": "Golpe Sombrío",
+    "costo_mana": 40,
+    "daño": 50
+  },
+  {
+    "nombre": "Descarga Eléctrica",
+    "costo_mana": 20,
+    "daño": 25
+  },
+  {
+    "nombre": "Tornado Arcano",
+    "costo_mana": 50,
+    "daño": 55
+  },
+  {
+    "nombre": "Lanza de Hielo",
+    "costo_mana": 60,
+    "daño": 70
+  },
+  {
+    "nombre": "Explosión Infernal",
+    "costo_mana": 70,
+    "daño": 100
+  },
+  {
+    "nombre": "Drenar Vida",
+    "costo_mana": 20,
+    "daño": 30
+  },
+  {
+    "nombre": "Cuchillas de Sombra",
+    "costo_mana": 45,
+    "daño": 55
+  },
+  {
+    "nombre": "Impacto Meteórico",
+    "costo_mana": 80,
+    "daño": 150
+  }
+]

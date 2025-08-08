@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Poción pequeña",
+    "plus": 0,
+    "heal": 20
+  },
+  {
+    "name": "Espada afilada",
+    "plus": 15,
+    "heal": 0
+  },
+  {
+    "name": "Escudo bendito",
+    "plus": 5,
+    "heal": 10
+  },
+  {
+    "name": "Anillo mágico",
+    "plus": 8,
+    "heal": 5
+  },
+  {
+    "name": "Elixir total",
+    "plus": 0,
+    "heal": 100
+  }
+]

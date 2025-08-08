@@ -1,0 +1,261 @@
+2025-08-06 08:23:25 [main] INFO  paragon.services.Reader.ReadAbilities - Leyendo el archivo de habilidades: C:\Users\david\Documents\E.Datos\Paragon\app\src\main\resources\Abilities.txt
+2025-08-06 08:23:25 [main] INFO  paragon.services.Reader.ReadAbilities - Archivo de habilidades leído exitosamente.
+2025-08-06 08:23:25 [main] INFO  paragon.services.Reader.ReadItems - Leyendo el archivo de items: C:\Users\david\Documents\E.Datos\Paragon\app\src\main\resources\Items.txt
+2025-08-06 08:23:25 [main] INFO  paragon.services.Reader.ReadItems - Archivo de items leído exitosamente.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Player.Player - Creando al jugador: david
+2025-08-06 08:23:25 [main] INFO  paragon.model.Player.Player - Jugador creado: david
+2025-08-06 08:23:25 [main] INFO  paragon.model.Player.Player - Creando al jugador: edwin
+2025-08-06 08:23:25 [main] INFO  paragon.model.Player.Player - Jugador creado: edwin
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Solid Asuene
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=bd7b4f03-87cb-45d7-909c-810b0c18f4a7, name='Solid Asuene', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Creando guerrero llamado: Solid Asuene
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Guerrero creado exitosamente: Character{id=bd7b4f03-87cb-45d7-909c-810b0c18f4a7, name='Solid Asuene', level=1, hp=125, mp=48, strength=27, intelligence=10, ability=19}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Kazuhira Clasista
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=672e14ed-4c3d-4032-ba35-da2b86859c93, name='Kazuhira Clasista', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Creando pícaro llamado: Kazuhira Clasista
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Picaro creado exitosamente: Character{id=672e14ed-4c3d-4032-ba35-da2b86859c93, name='Kazuhira Clasista', level=1, hp=116, mp=62, strength=13, intelligence=10, ability=25}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Naked Ferney
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=b275bb10-8724-4fe6-8131-cbe826579db6, name='Naked Ferney', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Creando guerrero llamado: Naked Ferney
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Guerrero creado exitosamente: Character{id=b275bb10-8724-4fe6-8131-cbe826579db6, name='Naked Ferney', level=1, hp=134, mp=47, strength=30, intelligence=13, ability=12}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Ocelot Shaggy
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=77917b36-698b-4327-a93b-dca0bc149ac3, name='Ocelot Shaggy', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Creando pícaro llamado: Ocelot Shaggy
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Picaro creado exitosamente: Character{id=77917b36-698b-4327-a93b-dca0bc149ac3, name='Ocelot Shaggy', level=1, hp=82, mp=54, strength=6, intelligence=17, ability=39}
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Impacto Meteórico', manaCost='80', damage=150} añadida al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Cuchillas de Sombra', manaCost='45', damage=55} añadida al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Lanza de Hielo', manaCost='60', damage=70} añadida al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Lanza de Hielo', manaCost='60', damage=70} añadida al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Escudo bendito', plus=5, heal=10} añadido al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Escudo bendito', plus=5, heal=10} añadido al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Espada afilada', plus=15, heal=0} añadido al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Anillo mágico', plus=8, heal=5} añadido al inventario.
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 152
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 99
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 99
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 126
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 99
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 126
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 152
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 126
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 126
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 164
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 152
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 164
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 164
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 152
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 126
+2025-08-06 08:23:25 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 99
+2025-08-06 08:23:25 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:23:45 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:23:47 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:23:55 [main] ERROR paragon.model.Match.Match - Selección inválida
+2025-08-06 08:23:55 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:24:01 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:24:07 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:24:11 [main] INFO  paragon.model.Match.Match - 0 usa item Espada afilada
+2025-08-06 08:24:11 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:24:18 [main] INFO  paragon.model.Match.Match - Buscando habilidad con índice 1
+2025-08-06 08:29:27 [main] INFO  paragon.services.Reader.ReadAbilities - Leyendo el archivo de habilidades: C:\Users\david\Documents\E.Datos\Paragon\app\src\main\resources\Abilities.txt
+2025-08-06 08:29:27 [main] INFO  paragon.services.Reader.ReadAbilities - Archivo de habilidades leído exitosamente.
+2025-08-06 08:29:27 [main] INFO  paragon.services.Reader.ReadItems - Leyendo el archivo de items: C:\Users\david\Documents\E.Datos\Paragon\app\src\main\resources\Items.txt
+2025-08-06 08:29:27 [main] INFO  paragon.services.Reader.ReadItems - Archivo de items leído exitosamente.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Player.Player - Creando al jugador: david
+2025-08-06 08:29:27 [main] INFO  paragon.model.Player.Player - Jugador creado: david
+2025-08-06 08:29:27 [main] INFO  paragon.model.Player.Player - Creando al jugador: edwin
+2025-08-06 08:29:27 [main] INFO  paragon.model.Player.Player - Jugador creado: edwin
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Solid Asuene
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=cc11e9c2-04a0-44ed-9bfc-502b166b05bd, name='Solid Asuene', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Creando guerrero llamado: Solid Asuene
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Guerrero creado exitosamente: Character{id=cc11e9c2-04a0-44ed-9bfc-502b166b05bd, name='Solid Asuene', level=1, hp=148, mp=46, strength=30, intelligence=9, ability=13}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Kazuhira Clasista
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=05784a9f-cfe6-4ee6-9646-cb80ee53d570, name='Kazuhira Clasista', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Creando pícaro llamado: Kazuhira Clasista
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Picaro creado exitosamente: Character{id=05784a9f-cfe6-4ee6-9646-cb80ee53d570, name='Kazuhira Clasista', level=1, hp=127, mp=65, strength=7, intelligence=7, ability=26}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Naked Ferney
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=1f517b31-3bf0-42af-b119-f1a7eb5ff83e, name='Naked Ferney', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Creando guerrero llamado: Naked Ferney
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Guerrero creado exitosamente: Character{id=1f517b31-3bf0-42af-b119-f1a7eb5ff83e, name='Naked Ferney', level=1, hp=107, mp=34, strength=30, intelligence=13, ability=20}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Ocelot Shaggy
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=d8fd0406-3354-4f16-9fb3-79dd04e19ae5, name='Ocelot Shaggy', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Creando pícaro llamado: Ocelot Shaggy
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Picaro creado exitosamente: Character{id=d8fd0406-3354-4f16-9fb3-79dd04e19ae5, name='Ocelot Shaggy', level=1, hp=105, mp=63, strength=6, intelligence=14, ability=33}
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Bola de Fuego', manaCost='20', damage=35} añadida al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Bola de Fuego', manaCost='20', damage=35} añadida al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Bola de Fuego', manaCost='20', damage=35} añadida al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Luz Sagrada', manaCost='25', damage=40} añadida al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Espada afilada', plus=15, heal=0} añadido al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Anillo mágico', plus=8, heal=5} añadido al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Espada afilada', plus=15, heal=0} añadido al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Espada afilada', plus=15, heal=0} añadido al inventario.
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 178
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 119
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 119
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 134
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 119
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 134
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 178
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 134
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 134
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 137
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 178
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 137
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 178
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 137
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 134
+2025-08-06 08:29:27 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 119
+2025-08-06 08:29:27 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:29:31 [main] ERROR paragon.model.Match.Match - Jugador 1 debe elegir un personaje válido
+2025-08-06 08:29:33 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:29:34 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:29:36 [main] INFO  paragon.model.Match.Match - 0 atacando a 0
+2025-08-06 08:29:36 [main] INFO  paragon.model.Character.Character - Kazuhira Clasista ataca a Solid Asuene
+2025-08-06 08:29:36 [main] INFO  paragon.model.Character.Character - Kazuhira Clasista inflige 17 puntos de daño a Solid Asuene
+2025-08-06 08:29:37 [main] INFO  paragon.model.Match.Match - 0 eligiendo habilidad
+2025-08-06 08:29:42 [main] INFO  paragon.model.Match.Match - 0 eligiendo habilidad
+2025-08-06 08:29:44 [main] INFO  paragon.model.Match.Match - Buscando habilidad con índice 0
+2025-08-06 08:29:44 [main] INFO  paragon.model.Match.Match - 0 usa habilidad Bola de Fuego contra 0
+2025-08-06 08:29:44 [main] INFO  paragon.model.Character.Character - Solid Asuene utiliza una habilidad
+2025-08-06 08:29:44 [main] INFO  paragon.model.Character.Character - Solid Asuene usa la habilidad Bola de Fuego en Kazuhira Clasista
+2025-08-06 08:29:44 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:33:47 [main] INFO  paragon.services.Reader.ReadAbilities - Leyendo el archivo de habilidades: C:\Users\david\Documents\E.Datos\Paragon\app\src\main\resources\Abilities.txt
+2025-08-06 08:33:47 [main] INFO  paragon.services.Reader.ReadAbilities - Archivo de habilidades leído exitosamente.
+2025-08-06 08:33:47 [main] INFO  paragon.services.Reader.ReadItems - Leyendo el archivo de items: C:\Users\david\Documents\E.Datos\Paragon\app\src\main\resources\Items.txt
+2025-08-06 08:33:47 [main] INFO  paragon.services.Reader.ReadItems - Archivo de items leído exitosamente.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Player.Player - Creando al jugador: david
+2025-08-06 08:33:47 [main] INFO  paragon.model.Player.Player - Jugador creado: david
+2025-08-06 08:33:47 [main] INFO  paragon.model.Player.Player - Creando al jugador: edwin
+2025-08-06 08:33:47 [main] INFO  paragon.model.Player.Player - Jugador creado: edwin
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Solid Asuene
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=1d7f7938-926e-4b8d-92af-a6507c4eeb9b, name='Solid Asuene', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Creando guerrero llamado: Solid Asuene
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Guerrero creado exitosamente: Character{id=1d7f7938-926e-4b8d-92af-a6507c4eeb9b, name='Solid Asuene', level=1, hp=146, mp=50, strength=25, intelligence=9, ability=11}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Kazuhira Clasista
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=58f720c5-bf0b-4627-8d56-3d22a4f45edb, name='Kazuhira Clasista', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Creando pícaro llamado: Kazuhira Clasista
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Picaro creado exitosamente: Character{id=58f720c5-bf0b-4627-8d56-3d22a4f45edb, name='Kazuhira Clasista', level=1, hp=88, mp=69, strength=12, intelligence=13, ability=38}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Naked Ferney
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=d14d639d-1f23-4079-b1bf-3e2d5c74788d, name='Naked Ferney', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Creando guerrero llamado: Naked Ferney
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Guerrero creado exitosamente: Character{id=d14d639d-1f23-4079-b1bf-3e2d5c74788d, name='Naked Ferney', level=1, hp=129, mp=44, strength=27, intelligence=12, ability=15}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Creando personaje llamado: Ocelot Shaggy
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inicializando inventario
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Inventario creado exitosamente.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Character - Personaje creado exitosamente: Character{id=de0ae973-c9b8-410c-838a-f087a7280faf, name='Ocelot Shaggy', level=1, hp=0, mp=0, strength=0, intelligence=0, ability=0}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Creando pícaro llamado: Ocelot Shaggy
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Picaro creado exitosamente: Character{id=de0ae973-c9b8-410c-838a-f087a7280faf, name='Ocelot Shaggy', level=1, hp=102, mp=68, strength=12, intelligence=11, ability=31}
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Tornado Arcano', manaCost='50', damage=55} añadida al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Drenar Vida', manaCost='20', damage=30} añadida al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Bola de Fuego', manaCost='20', damage=35} añadida al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Habilidad Habilidad{name='Golpe Sombrío', manaCost='40', damage=50} añadida al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Elixir total', plus=0, heal=100} añadido al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Anillo mágico', plus=8, heal=5} añadido al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Anillo mágico', plus=8, heal=5} añadido al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Inventory.Inventory - Ítem Item{name='Poción pequeña', plus=0, heal=20} añadido al inventario.
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 171
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 113
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 113
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 101
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 101
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 156
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 113
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 156
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 171
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 156
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Solid Asuene: 171
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Warrior - Poder total del guerrero Naked Ferney: 156
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Ocelot Shaggy: 113
+2025-08-06 08:33:47 [main] INFO  paragon.model.Character.Picaro - Poder total del pícaro Kazuhira Clasista: 101
+2025-08-06 08:33:47 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:33:51 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:33:51 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:33:55 [main] INFO  paragon.model.Match.Match - Buscando habilidad con índice 2
+2025-08-06 08:33:55 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:34:00 [main] INFO  paragon.model.Match.Match - Buscando habilidad con índice 0
+2025-08-06 08:34:00 [main] INFO  paragon.model.Match.Match - 0 usa habilidad Bola de Fuego contra 0
+2025-08-06 08:34:00 [main] INFO  paragon.model.Character.Character - Kazuhira Clasista utiliza una habilidad
+2025-08-06 08:34:00 [main] INFO  paragon.model.Character.Character - Kazuhira Clasista usa la habilidad Bola de Fuego en Solid Asuene
+2025-08-06 08:34:02 [main] INFO  paragon.model.Match.Match - 0 eligiendo habilidad
+2025-08-06 08:34:06 [main] INFO  paragon.model.Match.Match - Buscando habilidad con índice 0
+2025-08-06 08:34:06 [main] INFO  paragon.model.Match.Match - 0 usa habilidad Tornado Arcano contra 0
+2025-08-06 08:34:06 [main] INFO  paragon.model.Character.Character - Solid Asuene utiliza una habilidad
+2025-08-06 08:34:06 [main] INFO  paragon.model.Character.Character - Solid Asuene usa la habilidad Tornado Arcano en Kazuhira Clasista
+2025-08-06 08:34:06 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:34:09 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:34:11 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:34:12 [main] INFO  paragon.model.Match.Match - 0 atacando a 0
+2025-08-06 08:34:12 [main] INFO  paragon.model.Character.Character - Kazuhira Clasista ataca a Solid Asuene
+2025-08-06 08:34:12 [main] INFO  paragon.model.Character.Character - Kazuhira Clasista inflige 22 puntos de daño a Solid Asuene
+2025-08-06 08:34:13 [main] INFO  paragon.model.Character.Character - Solid Asuene ataca a Kazuhira Clasista
+2025-08-06 08:34:13 [main] INFO  paragon.model.Character.Character - Solid Asuene inflige 35 puntos de daño a Kazuhira Clasista
+2025-08-06 08:34:13 [main] INFO  paragon.model.Match.Match - Jugador 2 recibe boost para Solid Asuene
+2025-08-06 08:34:13 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:34:18 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:34:20 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:34:24 [main] INFO  paragon.model.Match.Match - 0 usa item Anillo mágico
+2025-08-06 08:34:24 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:34:28 [main] INFO  paragon.model.Match.Match - Buscando habilidad con índice 0
+2025-08-06 08:34:28 [main] INFO  paragon.model.Match.Match - 0 usa habilidad Drenar Vida contra 0
+2025-08-06 08:34:28 [main] INFO  paragon.model.Character.Character - Naked Ferney utiliza una habilidad
+2025-08-06 08:34:28 [main] INFO  paragon.model.Character.Character - Naked Ferney usa la habilidad Drenar Vida en Solid Asuene
+2025-08-06 08:34:32 [main] INFO  paragon.model.Match.Match - 0 usa item Elixir total
+2025-08-06 08:34:35 [main] INFO  paragon.model.Match.Match - 0 eligiendo habilidad
+2025-08-06 08:34:37 [main] INFO  paragon.model.Character.Character - Solid Asuene ataca a Naked Ferney
+2025-08-06 08:34:37 [main] INFO  paragon.model.Character.Character - Solid Asuene inflige 35 puntos de daño a Naked Ferney
+2025-08-06 08:34:37 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:35:08 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:35:13 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:14 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:15 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:17 [main] INFO  paragon.model.Match.Match - 0 atacando a 0
+2025-08-06 08:35:17 [main] INFO  paragon.model.Character.Character - Naked Ferney ataca a Solid Asuene
+2025-08-06 08:35:17 [main] INFO  paragon.model.Character.Character - Naked Ferney inflige 37 puntos de daño a Solid Asuene
+2025-08-06 08:35:19 [main] INFO  paragon.model.Match.Match - 0 eligiendo habilidad
+2025-08-06 08:35:20 [main] INFO  paragon.model.Character.Character - Solid Asuene ataca a Naked Ferney
+2025-08-06 08:35:20 [main] INFO  paragon.model.Character.Character - Solid Asuene inflige 35 puntos de daño a Naked Ferney
+2025-08-06 08:35:20 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:35:24 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:35:27 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:36 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:37 [main] INFO  paragon.model.Match.Match - 0 atacando a 1
+2025-08-06 08:35:37 [main] INFO  paragon.model.Character.Character - Naked Ferney ataca a Ocelot Shaggy
+2025-08-06 08:35:37 [main] INFO  paragon.model.Character.Character - Naked Ferney inflige 37 puntos de daño a Ocelot Shaggy
+2025-08-06 08:35:38 [main] INFO  paragon.model.Match.Match - 1 eligiendo habilidad
+2025-08-06 08:35:45 [main] INFO  paragon.model.Match.Match - Buscando habilidad con índice 0
+2025-08-06 08:35:45 [main] INFO  paragon.model.Match.Match - 1 usa habilidad Golpe Sombrío contra 0
+2025-08-06 08:35:45 [main] INFO  paragon.model.Character.Character - Ocelot Shaggy utiliza una habilidad
+2025-08-06 08:35:45 [main] INFO  paragon.model.Character.Character - Ocelot Shaggy usa la habilidad Golpe Sombrío en Naked Ferney
+2025-08-06 08:35:45 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo personaje...
+2025-08-06 08:35:50 [main] INFO  paragon.model.Match.Match - Jugador 2 eligiendo personaje...
+2025-08-06 08:35:54 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:57 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:58 [main] INFO  paragon.model.Match.Match - Jugador 1 eligiendo acción
+2025-08-06 08:35:59 [main] INFO  paragon.model.Match.Match - 0 atacando a 1
+2025-08-06 08:35:59 [main] INFO  paragon.model.Character.Character - Naked Ferney ataca a Ocelot Shaggy
+2025-08-06 08:35:59 [main] INFO  paragon.model.Character.Character - Naked Ferney inflige 37 puntos de daño a Ocelot Shaggy
+2025-08-06 08:36:01 [main] INFO  paragon.model.Match.Match - 1 usa item Poción pequeña
+2025-08-06 08:36:02 [main] INFO  paragon.model.Character.Character - Ocelot Shaggy ataca a Naked Ferney
+2025-08-06 08:36:02 [main] INFO  paragon.model.Character.Character - Ocelot Shaggy inflige 22 puntos de daño a Naked Ferney
+2025-08-06 08:36:02 [main] INFO  paragon.model.Match.Match - Jugador 2 recibe boost para Ocelot Shaggy
