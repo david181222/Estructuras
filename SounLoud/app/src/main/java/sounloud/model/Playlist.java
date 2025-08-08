@@ -6,9 +6,10 @@ import java.util.UUID;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+//Clase que define una Playlist que posee una lista de canciones
 public class Playlist {
     public static final Logger logger = LogManager.getLogger(Playlist.class);
-    private UUID IdPlaylist;
+    private String IdPlaylist;
     private String NamePlaylist;
     private String DescriptionPlaylist;
     private List<Song> Songs;
@@ -26,7 +27,7 @@ public class Playlist {
             }
 
             logger.info("Creando playlist {}", NamePlaylist);
-            this.IdPlaylist = UUID.randomUUID();
+            this.IdPlaylist = UUID.randomUUID().toString();
             this.NamePlaylist = NamePlaylist;
             this.DescriptionPlaylist = DescriptionPlaylist;
             this.Songs = Songs;
@@ -37,7 +38,7 @@ public class Playlist {
         }
     }
 
-    public UUID getIdPlaylist() {
+    public String getIdPlaylist() {
         return IdPlaylist;
     }
 

@@ -1,0 +1,101 @@
+[
+  {
+    "IdUser": "c1a2b3c4-d5e6-789f-1234-56789abcdef0",
+    "NameUser": "Juan",
+    "UserProfiles": [
+      {
+        "IdProfile": "d1f2e3a4-b5c6-789d-4321-98765fedcba0",
+        "Name": "Perfil Principal",
+        "Description": "Perfil personal de Juan",
+        "FavoriteGenre": "Rock",
+        "Playlist": [
+          {
+            "IdPlaylist": "a1b2c3d4-e5f6-789a-2345-67890abcdef1",
+            "NamePlaylist": "Mis Favoritas",
+            "DescriptionPlaylist": "Canciones que más escucho",
+            "Songs": [
+              {
+                "IdSong": "11112222-3333-4444-aaaa-bbbbccccdddd",
+                "NameSong": "Bohemian Rhapsody",
+                "Author": "Queen",
+                "DurationMinutes": 5.55,
+                "UrlYoutube": "https://youtu.be/fJ9rUzIMcZQ"
+              },
+              {
+                "IdSong": "aaaa1111-bbbb-2222-cccc-3333dddd4444",
+                "NameSong": "Smells Like Teen Spirit",
+                "Author": "Nirvana",
+                "DurationMinutes": 4.37,
+                "UrlYoutube": "https://youtu.be/hTWKbfoikeg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "IdProfile": "f1437eb6-55d8-4189-9b5f-8cbbc621f8d3",
+        "Name": "Juanillo",
+        "Description": "el golondrina",
+        "FavoriteGenre": "gallinas",
+        "Playlist": [
+          {
+            "IdPlaylist": "d5af1fa1-c6e4-4e79-940b-d18e98af12e8",
+            "NamePlaylist": "GOLONDRINAS",
+            "DescriptionPlaylist": "granja",
+            "Songs": [
+              {
+                "IdSong": "6c1843af-a55c-4027-9a27-4c1d531fb90f",
+                "NameSong": "BB\u0027S Theme (2022)",
+                "Author": "Ludvig Forssell FT. Troy Baker",
+                "DurationMinutes": 2.27,
+                "UrlYoutube": "https://www.youtube.com/watch?v\u003dGhKQuIfcEKg"
+              },
+              {
+                "IdSong": "a0fe47f8-4c2e-499b-bbeb-6dadf134ffaa",
+                "NameSong": "Billie Jean",
+                "Author": "Michael Jackson",
+                "DurationMinutes": 4.54,
+                "UrlYoutube": "https://www.youtube.com/watch?v\u003dZi_XLOBDo_Y"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "IdUser": "e5f6g7h8-i9j0-1234-5678-90abcdef1234",
+    "NameUser": "Mario",
+    "UserProfiles": [
+      {
+        "IdProfile": "z9y8x7w6-v5u4-3210-8765-123456abcdef",
+        "Name": "Perfil Secundario",
+        "Description": "Perfil de estudio",
+        "FavoriteGenre": "Jazz",
+        "Playlist": [
+          {
+            "IdPlaylist": "c3d4e5f6-g7h8-9101-1121-314151617181",
+            "NamePlaylist": "Estudio",
+            "DescriptionPlaylist": "Música para concentrarme",
+            "Songs": [
+              {
+                "IdSong": "99887766-5544-3322-1111-aaaa99998888",
+                "NameSong": "Take Five",
+                "Author": "The Dave Brubeck Quartet",
+                "DurationMinutes": 5.24,
+                "UrlYoutube": "https://youtu.be/tT9Eh8wNMkw"
+              },
+              {
+                "IdSong": "12344321-4321-1234-aaaa-bbbbccccdddd",
+                "NameSong": "So What",
+                "Author": "Miles Davis",
+                "DurationMinutes": 9.22,
+                "UrlYoutube": "https://youtu.be/zqNTltOGh5c"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

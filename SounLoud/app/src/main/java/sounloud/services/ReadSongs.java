@@ -14,10 +14,10 @@ import java.util.List;
 
 import com.google.gson.Gson;
 
-
+//Esta clase tiene por objetivo leer el archivo Songs.txt y deserializar las canciones que pueden ser añadidas a una playlist
 public class ReadSongs {
     private Gson gson;
-    private static final String fileName = "C:\\Users\\david\\Documents\\E.Datos\\RecursosSoundLoud\\Songs.txt";
+private static final String fileName = "C:\\Users\\david\\Documents\\E.Datos\\RecursosSoundLoud\\Songs.txt"; //Ruta del archivo con canciones
    private static List<Song> PlaylistReadSongs = new ArrayList<>();
     private static boolean fileAlreadyRead = false;
     private static final Logger logger = LogManager.getLogger(ReadSongs.class);

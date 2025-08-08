@@ -7,9 +7,10 @@ import java.util.UUID;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+//Clase que define un perfil que posee una lista de Playlists
 public class Profile {
     public static final Logger logger = LogManager.getLogger(Profile.class);
-    private UUID IdProfile;
+    private String IdProfile;
     private String Name;
     private String Description;
     private String FavoriteGenre;
@@ -29,7 +30,7 @@ public class Profile {
            
 
             logger.info("Creando perfil {}", Name);
-            this.IdProfile = UUID.randomUUID();
+            this.IdProfile = UUID.randomUUID().toString();
             this.Name = Name;
             this.Description = Description;
             this.FavoriteGenre = FavoriteGenre;
@@ -42,7 +43,7 @@ public class Profile {
 
     }
 
-    public UUID getIdProfile() {
+    public String getIdProfile() {
         return IdProfile;
     }
 

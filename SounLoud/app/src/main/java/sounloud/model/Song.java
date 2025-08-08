@@ -5,9 +5,10 @@ import java.util.UUID;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+//Clase que define una canción
 public class Song {
     public static final Logger logger = LogManager.getLogger(Song.class);
-    private UUID IdSong;
+    private String IdSong;
     private String NameSong;
     private String Author;
     private double DurationMinutes;
@@ -29,7 +30,7 @@ public class Song {
             }
 
             logger.info("Creando canción {}", NameSong);
-            this.IdSong = UUID.randomUUID();
+            this.IdSong = UUID.randomUUID().toString();
             this.NameSong = NameSong;
             this.Author = Author;
             this.DurationMinutes = DurationMinutes;
@@ -41,7 +42,12 @@ public class Song {
         }
     }
 
-    public UUID getIdSong() {
+    public String getIdSong() {
+        // Si el ID es null (canción cargada desde JSON), generar uno nuevo
+        if (IdSong == null) {
+            IdSong = UUID.randomUUID().toString();
+            logger.debug("Generando ID para canción cargada desde JSON: {}", NameSong);
+        }
         return IdSong;
     }
 

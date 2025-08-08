@@ -10,7 +10,11 @@ import java.util.Queue;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Queueplay {
+import sounloud.interfaces.IQueueplay;
+
+//Clase que define una cola de reproducción, implementamos la lógica de reproducción para escuchar las playlists y canciones en cola,
+//para escuchar una canción aleatoria y para escuchar una canción seleccionada por el usuario
+public class Queueplay implements IQueueplay {
     private static final Logger logger = LogManager.getLogger(Queueplay.class);
     private Queue<Playlist> playlistQueue;
 
@@ -52,7 +56,7 @@ public class Queueplay {
             logger.error("Error al mostrar canciones de la playlist: {}", e.getMessage());
         }
     }
-
+    @Override
     public void startListening() {
         double songDuration;
         int timePerSong;
@@ -92,7 +96,7 @@ public class Queueplay {
                 }
 
                 logger.info("Acabó la reproducción de la playlist {}", playlistToPlay.getNamePlaylist());
-                System.out.println("Fin de la playlist.");
+                System.out.println("Fin de la playlist"+ playlistToPlay.getNamePlaylist());
 
             } catch (Exception e) {
                 logger.error("Error al reproducir playlist: {}", e.getMessage());
@@ -100,10 +104,10 @@ public class Queueplay {
             }
         }
 
-        logger.info("Acabó la reproducción de la cola");
+        logger.info("Se terminó la reproducción de la cola");
         System.out.println("Fin de la cola de reproducción.");
     }
-
+    @Override
     public void startListeningRandom() {
         List<Playlist> playlistList = new ArrayList<>();
         try {
@@ -139,7 +143,8 @@ public class Queueplay {
             throw e;
         }
     }
-
+    
+    @Override
     public void startListeningSelectedSong(Song song) {
         try {
             String url = song.getUrlYoutube();

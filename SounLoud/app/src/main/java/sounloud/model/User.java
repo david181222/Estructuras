@@ -7,22 +7,23 @@ import java.util.UUID;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+//Clase que define al usuario
 public class User {
     public static final Logger logger = LogManager.getLogger(User.class);
 
-    private UUID IdUser;
+    private String IdUser;
     private String NameUser;
     private List<Profile> UserProfiles;
 
     
     public User(String NameUser) {
         try {
-            if (NameUser == null || NameUser.isEmpty()) {
+            if (NameUser == null || NameUser.trim().isEmpty()) {
                 throw new IllegalArgumentException("El nombre de usuario no puede ser nulo o vacío");
             }
 
             logger.info("Creando usuario {}", NameUser);
-            this.IdUser = UUID.randomUUID();
+            this.IdUser = UUID.randomUUID().toString();
             this.NameUser = NameUser;
             this.UserProfiles = new ArrayList<>();
             logger.info("Usuario {} creado con éxito", NameUser);
@@ -32,7 +33,7 @@ public class User {
         }
     }
 
-    public UUID getIdUser() {
+    public String getIdUser() {
         return IdUser;
     }
 
